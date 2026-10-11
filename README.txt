@@ -1,8 +1,7 @@
-TriggerSmart — Candace Owens / Erika Kirk Stream Package
+TriggerSmart — Candace Owens / Erika Kirk Evidence Companion
 
-OPEN index.html for the stream-synced evidence companion.
-OPEN script.html for the ready-to-present script.
+OPEN index.html for the evidence companion.
 OPEN docs/video-index.html for rapid clip retrieval.
 OPEN docs/source-manifest.html for the ordered receipt list.
 
-The companion sections and script sections match 1:1. Small embedded videos use the same timestamped start points as the script.
+This website package contains evidence, media, source links, and navigation only. Video controls use the verified timestamped start points, normally ten seconds before the referenced statement.
