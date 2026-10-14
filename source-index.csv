@@ -1,27 +1,16 @@
-section,source,timestamp,url
-"1","Ben Shapiro / Megyn Kelly","1:09:52","https://www.youtube.com/watch?v=tprng5mObQg&t=4192s"
-"2","Megyn Kelly","2:39","https://www.youtube.com/watch?v=Xq9hI8lVFgs&t=159s"
-"2","Megyn Kelly key finding","3:22","https://www.youtube.com/watch?v=Xq9hI8lVFgs&t=202s"
-"3","Candace Episode 279","16:58","https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=1018s"
-"3","Candace Episode 279 key line","18:19","https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=1099s"
-"4","Piers Morgan","22:37","https://www.youtube.com/watch?v=Xj1ql9H1s6g&t=1357s"
-"4","Piers Morgan direct wording","23:26","https://www.youtube.com/watch?v=Xj1ql9H1s6g&t=1406s"
-"4","Piers Morgan planning question","25:26","https://www.youtube.com/watch?v=Xj1ql9H1s6g&t=1526s"
-"4","Piers Morgan trigger-puller question","25:58","https://www.youtube.com/watch?v=Xj1ql9H1s6g&t=1558s"
-"4","Piers Morgan foreknowledge","26:00","https://www.youtube.com/watch?v=Xj1ql9H1s6g&t=1560s"
-"4","Piers Morgan concrete evidence","27:02","https://www.youtube.com/watch?v=Xj1ql9H1s6g&t=1622s"
-"5","Candace Episode 305","0:00","https://www.youtube.com/watch?v=ti5Fxrvegno&t=0s"
-"5","Candace Episode 305 police questioning","1:09","https://www.youtube.com/watch?v=ti5Fxrvegno&t=69s"
-"6","Candace Episode 318","18:46","https://www.youtube.com/watch?v=7ERqbYElOfs&t=1126s"
-"7","Candace Episode 326 black widow context","18:48","https://www.youtube.com/watch?v=1mYNOqzAdXs&t=1128s"
-"7","Candace Episode 326 phrase","18:56","https://www.youtube.com/watch?v=1mYNOqzAdXs&t=1136s"
-"7","Candace Episode 326 OJ context","23:55","https://www.youtube.com/watch?v=1mYNOqzAdXs&t=1435s"
-"7","Candace Episode 326 OJ reference","24:00","https://www.youtube.com/watch?v=1mYNOqzAdXs&t=1440s"
-"8","Erika short excerpt","0:00","https://www.youtube.com/watch?v=sSb9-LFeTWw&t=0s"
-"10","Candace Episode 330 private-message response","51:45","https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3105s"
-"10","Candace Episode 330 direct denial","55:50","https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3350s"
-"11","PBD master direct participation question","2:26:00","https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=8760s"
-"12","PBD master legal-pickle exchange","2:42:01","https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=9721s"
-"13","PBD master complicit replay","2:44:00","https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=9840s"
-"13","PBD master added-words objection","2:45:01","https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=9901s"
-"13","PBD master definition","2:47:01","https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=10021s"
+show_number,chapter,title,timestamp_or_locator,url,platform,transcript_or_backup,note
+1,1,Ben Shapiro / Megyn Kelly — Ben says Candace accused Erika,X clip supplied by user,https://x.com/johnfkjuniorq/status/2110226452394184989?s=20,X,,Direct clip of the exchange where Ben answers Megyn’s murder question.
+2,2,Megyn Kelly — staff checked the claim,2:39,https://www.youtube.com/watch?v=Xq9hI8lVFgs&t=159s,YouTube,https://podscripts.co/podcasts/the-megyn-kelly-show/megyn-reveals-her-candace-and-erika-backstory-and-disturbing-new-rob-reiner-son-details-with-ruthless-ep-1214,Megyn explains that her staff went back through Candace’s statements.
+3,3,Candace — “Erika murdered Charlie” formulation,16:58,https://www.youtube.com/watch?v=6J6lRZPQ4jk&t=1018s,YouTube,https://podscripts.co/podcasts/candace/erika-kirk-tells-me-to-stop-tyler-robinson-makes-his-first-appearance-candace-ep-279,Candace distinguishes questioning from a direct murder accusation.
+4,4,Piers Morgan — murder versus cover-up,23:26,https://www.youtube.com/watch?v=Xj1ql9H1s6g&t=1406s,YouTube,https://podscripts.co/podcasts/piers-morgan-uncensored/i-will-not-stop-candace-owens-meets-erika-kirk-piers-morgan-interview,Piers asks who was involved in the murder; Candace says she did not say they murdered Charlie.
+5,5,Candace — police questioning episode,0:00,https://www.youtube.com/watch?v=ti5Fxrvegno&t=0s,YouTube,https://podscripts.co/podcasts/candace/heres-why-its-time-for-the-police-to-question-erika-kirk-candace-ep-305,Candidate clip often cited in the dispute; the stated call is for police questioning.
+6,5,Candace — “complicit somehow”,18:46,https://www.youtube.com/watch?v=7ERqbYElOfs&t=1126s,YouTube,https://podscripts.co/podcasts/candace/the-33-club-freemason-murder-plot-exposed-candace-ep-318,Original “complicit somehow” statement.
+7,5,Candace — O.J. “If I Did It” reference,23:55,https://www.youtube.com/watch?v=1mYNOqzAdXs&t=1435s,YouTube,https://podscripts.co/podcasts/candace/secret-service-admits-there-was-no-threat-atf-releases-report-candace-ep-326,Candidate clip containing the O.J. book joke.
+8,6,Erika Kirk — says Candace is claiming she murdered Charlie,Official TBN cut,https://www.tbn.org/programs/charlie-kirk-today/episodes/erika-kirk-april-30-2026-charlie-kirk-today,TBN,https://manowhisper.signalnetwork.org/show/the-charlie-kirk-show/episode/a-special-message-from-mrs-erika-kirk,Official TBN source for Erika’s statement; alternate transcript places the sentence at 8:56 in another cut.
+9,7,Andrew Kolvet screenshot — private text,Screenshot receipt,https://wltreport.com/2026/04/30/tpusas-andrew-kolvet-exposes-candace-owens-brings-receipts/,Web,https://podprose.org/post/558/candace-owens-responding-erika-kirk-s-callout-transcript,Reproduction of the private-message screenshot containing the literal murder question.
+10,7,Candace — explains the private message,52:01,https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3121s,YouTube,https://podscripts.co/podcasts/candace/time-magazine-worlds-most-vile-person-candace-ep-330,Candace acknowledges the text and gives her explanation of its context.
+11,7,Candace — says she is not accusing Erika of shooting Charlie,55:55,https://www.youtube.com/watch?v=qZ8RWfyuewQ&t=3355s,YouTube,https://podcasts.happyscribe.com/candace/time-magazine-world-s-most-vile-person-candace-ep-330,Same episode; direct response to the murder characterization.
+12,7,Candace — unequivocal next-day denial,44:35,https://www.youtube.com/watch?v=69A8TzAGHlU&t=2675s,YouTube,https://podcasts.happyscribe.com/candace/breaking-news-brian-harpole-sues-me-candace-ep-331,Candace says she does not believe Erika murdered Charlie and says she has never made that claim in public.
+13,8,Andrew Wilson — direct participation question,1:45:54,https://www.youtube.com/watch?v=aPOyk1i2LOc&t=6354s,YouTube,https://podcasts.happyscribe.com/candace/candace-owens-vs-andrew-wilson-the-great-debate,Andrew asks whether Erika or TPUSA participated in the murder; Candace says she never said they did.
+14,8,Andrew Wilson — participation / foreknowledge / facilitation,2:01:20,https://www.youtube.com/watch?v=aPOyk1i2LOc&t=7280s,YouTube,https://podcasts.happyscribe.com/candace/candace-owens-vs-andrew-wilson-the-great-debate,Andrew broadens the personal-belief question.
+15,9,Andrew Wilson — defines “complicit somehow”,2:03:57,https://www.youtube.com/watch?v=aPOyk1i2LOc&t=7437s,YouTube,https://podcasts.happyscribe.com/candace/candace-owens-vs-andrew-wilson-the-great-debate,Andrew adds “in his death”; Candace objects and later defines what she says “complicit” meant.
